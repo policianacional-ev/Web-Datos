@@ -1,12 +1,9 @@
-Hello World Hello World Hello World Hello World Hello World Hello World Hello World
-Hello World Hello World Hello World Hello World Hello World Hello World Hello World
-Hello World Hello World Hello World Hello World Hello World Hello World Hello World
-Hello World Hello World Hello World Hello World Hello World Hello World Hello World
-Hello World Hello World Hello World Hello World Hello World Hello World Hello World
-Hello World Hello World Hello World Hello World Hello World Hello World Hello World
-Hello World Hello World Hello World Hello World Hello World Hello World Hello World
-Hello World Hello World Hello World Hello World Hello World Hello World Hello World
-Hello World Hello World Hello World Hello World Hello World Hello World Hello World
-Hello World Hello World Hello World Hello World Hello World Hello World Hello World
-Hello World Hello World Hello World Hello World Hello World Hello World Hello World
-Hello World Hello World Hello World Hello World Hello World Hello World Hello World
+----INFORME POLICIAL----
+USUARIO: ejemplo123
+----HISTORIAL CRIMINAL----
+CRIMEN: algo ilegal
+MOTIVO: un motivo muy serio
+DEFINICION DEL CRIMEN:
+- TESTIGOS: muchooosssss y sus declaraciones
+- CAMARAS: Fotos (Se suben aqui, a este documento, con el nombre de IMAGEN(numero).{FORMATO})
+- DECLARACION DE LOS OFICIALES:
