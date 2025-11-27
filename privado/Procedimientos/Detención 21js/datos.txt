@@ -3,3 +3,17 @@
 - Nombre del sujeto: 21js
 - Motivo de detención: Hacer un tiroteo en la cárcel 
 - Tiempo de detención: 300 segundos
+# TEST
+## TEST
+### TEST
+**negrita**
+
+_cursiva_
+
+__subrayado__
+
+~~tachado~~
+
+`inline code`
+
+- item y * item → listas
